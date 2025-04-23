@@ -1,4 +1,6 @@
 # 👋 Olá, eu sou Kelvin Junior! 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-katende-9bb7501b9/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinjunior592@gmail.com)
 
 <div align="">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Desenvolvedor+Web;Apaixonado+por+Tecnologia" alt="Título animado" />
@@ -34,13 +36,6 @@
 ### 🧰 Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
-
-## 🌐 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-katende-9bb7501b9/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinjunior592@gmail.com)
 
 <!--## ⚡ Projeto em Destaque
 
