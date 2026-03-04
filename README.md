@@ -7,6 +7,7 @@
 </div>
 
 ## Desenvolvedor Web
+**`Desenvolvedor Web`**
 
 <p>
   Sou um desenvolvedor focado em criar soluções. Adoro desafios que me permitem unir lógica e criatividade para construir experiências digitais memoráveis.
